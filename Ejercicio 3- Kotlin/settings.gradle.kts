@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Ejercicio-1-Permisos"
+rootProject.name = "Ejercicio"
 include(":app")
- 

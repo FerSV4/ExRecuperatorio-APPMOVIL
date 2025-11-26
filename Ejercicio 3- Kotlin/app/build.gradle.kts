@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ejercicio_1_permisos"
+    namespace = "com.example.ejercicio"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.ejercicio_1_permisos"
+        applicationId = "com.example.ejercicio"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
